@@ -1,13 +1,4 @@
-## Hello there 👋
-This is Glory Aditya, an AI/ML Engineer specializing in Computer Vision and Generative Models. 
-I like to build and deploy models for real-world applications. 
-
-- Indonesia 🇮🇩
-- Skilled in Python, TensorFlow, OpenCV, and MLOps.
-- Certified in GANs Specialization and Microsoft Azure AI Fundamental
-
-
-### Hi, I'm Glory Aditya Jauzaulbahi 👋
+## Hello There 👋
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -20,26 +11,25 @@ I like to build and deploy models for real-world applications.
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
 </p>
 
-[cite_start]I'm a Biomedical Engineering graduate [cite: 6] [cite_start]specializing in **AI/ML** and **Computer Vision**[cite: 6].
+I'm Glory Aditya Jauzaulbahi, an AI/ML Engineer specializing in Computer Vision and Generative Models. 
+I like to build and deploy models for real-world applications. I have hands-on experience in the complete model lifecycle: from **data preprocessing** and **augmentation**  to **model training**, **performance benchmarking** , and **deployment**. I am a collaborative problem-solver eager to build reliable, data-driven systems.
 
-[cite_start]I have hands-on experience in the complete model lifecycle: from **data preprocessing** and **augmentation** [cite: 7] [cite_start]to **model training**, **performance benchmarking** [cite: 7][cite_start], and **deployment**[cite: 39]. [cite_start]I am a collaborative problem-solver [cite: 8] eager to build reliable, data-driven systems.
-
----
+- 👨‍🎓 Degree: Bachelor of Engineering in Biomedical Engineering, Universitas Gadjah Mada
+- 📚 Currently learning with NLP and Language Models
 
 ### 🚀 My Featured Projects
 
 | Project | Description | Key Result |
 | :--- | :--- | :--- |
-| [cite_start]**Meltion (Melanoma Detection)** [cite: 42] | [cite_start]Engineered a data pipeline with augmentation [cite: 42] [cite_start]to train a **ResNet50 CNN** for image classification[cite: 43]. | [cite_start]**79% Validation Accuracy** [cite: 43] |
-| [cite_start]**GANs for Augmentation** [cite: 46] | [cite_start]Implemented and benchmarked GANs/VAEs [cite: 48] [cite_start]to synthesize arterial waveform data[cite: 48]. | [cite_start]**Boosted F1-Score to 96%** [cite: 50] |
-| [cite_start]**Real-Time Handwashing CV** [cite: 37] | [cite_start]Developed a CV pipeline with MediaPipe [cite: 38] [cite_start]and deployed an SVM model for on-device inference[cite: 39]. | [cite_start]**76% Accuracy on Raspberry Pi 4** [cite: 39] |
+| **Real-Time Handwashing CV** | Developed a CV pipeline with MediaPipe and deployed an SVM model for on-device inference. | **76% Accuracy on Raspberry Pi 4**  |
+| **GANs for Dataset Augmentation** | Implemented and benchmarked GANs/VAEs to synthesize arterial waveform data. | **Boosted F1-Score to 96%**  |
 
 ---
 
 ### 🎓 Certifications
 
-* [cite_start]**Microsoft Certified: Azure AI Fundamentals (AI-900)** [cite: 18, 21]
-* [cite_start]**DeepLearning.AI GANs Specialization** [cite: 16, 20]
+* **Microsoft Certified: Azure AI Fundamentals (AI-900)**
+* **DeepLearning.AI GANs Specialization**
 
 <br/>
 
