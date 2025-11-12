@@ -2,10 +2,12 @@
 
 I'm Glory Aditya Jauzaulbahi, an AI/ML Engineer specializing in Computer Vision and Generative Models. 
 
-I have hands-on experience in the complete model lifecycle: from **data preprocessing** and **augmentation**  to **model training**, **performance benchmarking** , and **deployment**. I am a collaborative problem-solver eager to build reliable, data-driven systems.
+I have hands-on experience in the complete model lifecycle: from **data gathering**, **preprocessing**, and **augmentation**  to **model training**, **performance benchmarking** , and **deployment**. I am a collaborative problem-solver eager to build reliable, data-driven systems.
 
-- 👨‍🎓 Degree: Bachelor of Engineering in Biomedical Engineering, Universitas Gadjah Mada
-- 📚 Currently learning with NLP and Language Models
+- 👨‍🎓 Degree: B.Eng in Biomedical Engineering
+- 📚 Currently learning: NLP and Language Models, and Japanese
+- ⚡ Fun fact: Proficient in Bahasa Indonesia and English
+- 🔎 Looking For Job: Junior AI/ML Engineer, Data Scientist, Data Engineer
 
 ### 🚀 My Featured Projects
 
