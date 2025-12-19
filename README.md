@@ -13,10 +13,10 @@ I have hands-on experience in the complete model lifecycle: from **data gatherin
 
 | Project | Description | Key Result |
 | :--- | :--- | :--- |
-| **Real-Time Handwashing CV** | Developed a CV pipeline with MediaPipe and deployed an SVM model for on-device inference. | **76% Accuracy on Raspberry Pi 4**  |
-| **GANs for Dataset Augmentation** | Implemented and benchmarked GANs/VAEs to synthesize arterial waveform data. | **Boosted F1-Score to 96%**  |
-
----
+| **Private Local RAG** | Built a privacy-first RAG pipeline using **Ollama (Llama 3)**, LangChain, and ChromaDB for offline document querying. | **Zero Data Leakage & 100% Offline** |
+| **Emosense (MLOps)** | End-to-end emotion detection system using **Quantized ONNX (INT8)**, Docker container, and Streamlit UI. | **Lightweight & Production-Ready** |
+| **Real-Time Handwashing CV** | Developed a CV pipeline with MediaPipe and deployed an SVM model for on-device inference. | **76% Accuracy on Raspberry Pi 4** |
+| **GANs for Dataset Augmentation** | Implemented and benchmarked GANs/VAEs to synthesize arterial waveform data. | **Boosted F1-Score to 96%** |
 
 ### 🎓 Certifications
 
