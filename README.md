@@ -2,14 +2,14 @@
 
 I'm Glory Aditya Jauzaulbahi, an AI/ML Engineer specializing in Computer Vision and Generative Models. 
 
-I have hands-on experience in the complete model lifecycle: from **data gathering**, **preprocessing**, and **augmentation**  to **model training**, **performance benchmarking** , and **deployment**. I am a collaborative problem-solver eager to build reliable, data-driven systems.
+I have hands-on experience in the complete model lifecycle: from data curation, preprocessing, and dataset augmentation into model training & evaluation, also model deployment & monitoring. I am a collaborative problem-solver eager to build reliable, data-driven systems.
 
-- 👨‍🎓 Degree: B.Eng in Biomedical Engineering
-- 📚 Currently learning: NLP and Language Models, and Japanese
-- ⚡ Fun fact: Proficient in Bahasa Indonesia and English
-- 🔎 Looking For Job: Junior AI/ML Engineer, Data Scientist, Data Engineer
+- Degree: B.Eng in Biomedical Engineering
+- Currently learning: NLP and Language Models, and JLPT N5
+- Fun fact: Proficient in Bahasa Indonesia and English
+- Looking For Job: Junior AI/ML Engineer, Data Scientist, Data Engineer
 
-### 🚀 My Featured Projects
+### My Projects Experience
 
 | Project | Description | Key Result |
 | :--- | :--- | :--- |
@@ -19,7 +19,7 @@ I have hands-on experience in the complete model lifecycle: from **data gatherin
 | **Real-Time Handwashing CV** | Developed a CV pipeline with MediaPipe and deployed an SVM model for on-device inference. | **76% Accuracy on Raspberry Pi 4** |
 | **GANs for Dataset Augmentation** | Implemented and benchmarked GANs/VAEs to synthesize arterial waveform data. | **Boosted F1-Score to 96%** |
 
-### 🎓 Certifications
+### Certifications
 
 * **Microsoft Certified: Azure AI Fundamentals (AI-900)**
 * **DeepLearning.AI GANs Specialization**
